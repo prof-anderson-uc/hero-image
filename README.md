@@ -12,13 +12,20 @@ Because people are highly visual, having high-quality, full-screen imagery at th
 In addition to being a must for an engaging user experience (UX), a hero image also adds value by directing users towards a desired link or call-to-action or presenting your business’ value proposition at the top of the webpage.
 
 ---
-	
+### Hero Image
 ` hero-only.html ` - 
 This is an example of a homepage that contains a large hero image below the header. 
 
+![Hero Image](images/hero.png)
+
+---
+
+### Hero Image and Columns
 
 ` hero-3column.html ` - 
-This is has the hero image below the header, but it also has a 3-column layout below the hero image. Each column contains an image and a headeing, but you should be able to eaily change that for your page. 
+This is has the hero image below the header, but it also has a 3-column layout below the hero image. Each column contains an image and a heading before its content, but you can eaily change that for your page. 
+
+![Hero Image](images/hero-columns.png)
 
 ---
 
